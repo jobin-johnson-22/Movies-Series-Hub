@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Movies-Series-Hub/static/css/main.93643287.chunk.css",
+    "main.js": "/Movies-Series-Hub/static/js/main.35cb2328.chunk.js",
+    "main.js.map": "/Movies-Series-Hub/static/js/main.35cb2328.chunk.js.map",
+    "runtime-main.js": "/Movies-Series-Hub/static/js/runtime-main.e5a122b8.js",
+    "runtime-main.js.map": "/Movies-Series-Hub/static/js/runtime-main.e5a122b8.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/Movies-Series-Hub/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.64d29038.chunk.js": "/Movies-Series-Hub/static/js/2.64d29038.chunk.js",
+    "static/js/2.64d29038.chunk.js.map": "/Movies-Series-Hub/static/js/2.64d29038.chunk.js.map",
+    "index.html": "/Movies-Series-Hub/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/Movies-Series-Hub/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.93643287.chunk.css.map": "/Movies-Series-Hub/static/css/main.93643287.chunk.css.map",
+    "static/js/2.64d29038.chunk.js.LICENSE.txt": "/Movies-Series-Hub/static/js/2.64d29038.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5a122b8.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.64d29038.chunk.js",
+    "static/css/main.93643287.chunk.css",
+    "static/js/main.35cb2328.chunk.js"
+  ]
+}
